@@ -124,3 +124,99 @@ This project involves collaboration between multiple roles, each contributing th
 
 ### Conclusion  
 Each role plays a critical part in the success of the project. By working collaboratively, following best practices, and ensuring clear communication, the team can deliver a high-quality, user-centric product on time and within scope.
+
+## UI Component Patterns  
+
+This section outlines the reusable UI components that will be developed as part of the project. These components are designed to ensure a consistent look and feel across the application and improve development efficiency.
+
+### **1. Navbar**  
+**Description**:  
+A responsive navigation bar that provides access to the primary sections of the application.  
+
+**Key Features**:  
+- Logo or brand name placement.  
+- Navigation links to key pages (e.g., Home, Property Listings, Checkout).  
+- Mobile-friendly hamburger menu for smaller screens.  
+- Optional user authentication links (e.g., Login/Logout).  
+
+**Purpose**:  
+Ensures users can easily navigate the application while maintaining a consistent header across all pages.
+
+---
+
+### **2. Property Card**  
+**Description**:  
+A card component used to display property details in a concise and visually appealing format.  
+
+**Key Features**:  
+- Property image with hover effects.  
+- Property title, description, and location.  
+- Pricing and availability status.  
+- Call-to-action buttons (e.g., View Details, Book Now).  
+
+**Purpose**:  
+Provides users with a quick overview of properties while encouraging further exploration or booking actions.
+
+---
+
+### **3. Footer**  
+**Description**:  
+A consistent footer that appears at the bottom of all pages, providing key links and information.  
+
+**Key Features**:  
+- Contact information (e.g., email, phone, address).  
+- Social media links (e.g., icons for Twitter, Facebook, Instagram).  
+- Secondary navigation links (e.g., Privacy Policy, Terms & Conditions).  
+- Copyright notice.  
+
+**Purpose**:  
+Enhances accessibility by centralizing important links and information while maintaining a consistent site structure.
+
+---
+
+### **4. Button**  
+**Description**:  
+A versatile button component used throughout the application for various actions.  
+
+**Key Features**:  
+- Multiple styles (e.g., primary, secondary, disabled).  
+- Adjustable size (e.g., small, medium, large).  
+- Icon support for actions (e.g., search, delete).  
+- Hover and focus effects for better interactivity.  
+
+**Purpose**:  
+Encourages consistent design and functionality for user interactions.
+
+---
+
+### **5. Modal**  
+**Description**:  
+A pop-up component for displaying additional content or prompting user actions without leaving the current page.  
+
+**Key Features**:  
+- Customizable header, body, and footer sections.  
+- Close button and background click-to-close support.  
+- Usable for forms, alerts, or additional information.  
+
+**Purpose**:  
+Improves user experience by delivering information or interactions in a non-intrusive way.
+
+---
+
+### **6. Pagination**  
+**Description**:  
+A component for navigating through multiple pages of property listings or search results.  
+
+**Key Features**:  
+- Page numbers and navigation buttons (Next, Previous).  
+- Support for large datasets with ellipses for skipped pages.  
+- Customizable styles for active/inactive pages.  
+
+**Purpose**:  
+Helps users navigate through content-heavy sections efficiently.
+
+---
+
+### Conclusion  
+These components are designed to create a cohesive and intuitive user interface. By developing reusable and consistent patterns, the project can ensure scalability and maintainability while enhancing the overall user experience.
+
