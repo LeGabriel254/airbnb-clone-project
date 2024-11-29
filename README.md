@@ -215,15 +215,13 @@ A component for navigating through multiple pages of property listings or search
 **Purpose**:  
 Helps users navigate through content-heavy sections efficiently.
 
----
-
 ### Conclusion  
 These components are designed to create a cohesive and intuitive user interface. By developing reusable and consistent patterns, the project can ensure scalability and maintainability while enhancing the overall user experience.
 
 # Acceptance Criteria
--Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+- Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
 
-## Importance of acceptance criteria
-**Ensure all parties have a clear understanding of feature requirements.**
-**Provide a basis for testing and validation.**
-**Help in maintaining quality and meeting user expectations.**
+**Importance of acceptance criteria.**
+- Ensure all parties have a clear understanding of feature requirements.
+- Provide a basis for testing and validation.
+- Help in maintaining quality and meeting user expectations.
